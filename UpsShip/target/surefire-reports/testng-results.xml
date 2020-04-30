@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-04-30T11:34:21Z" name="Suite" finished-at="2020-04-30T11:34:32Z" duration-ms="11777">
+  <suite started-at="2020-04-30T12:23:08Z" name="Suite" finished-at="2020-04-30T12:23:19Z" duration-ms="11352">
     <groups>
     </groups>
-    <test started-at="2020-04-30T11:34:21Z" name="Test" finished-at="2020-04-30T11:34:32Z" duration-ms="11777">
+    <test started-at="2020-04-30T12:23:08Z" name="Test" finished-at="2020-04-30T12:23:19Z" duration-ms="11352">
       <class name="pack.UPStest.UpsShipTest">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:pack.UPStest.UpsShipTest@2cae1042]" started-at="2020-04-30T11:34:21Z" name="beforeMethod" finished-at="2020-04-30T11:34:25Z" duration-ms="4584" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:pack.UPStest.UpsShipTest@2cae1042]" started-at="2020-04-30T12:23:08Z" name="beforeMethod" finished-at="2020-04-30T12:23:13Z" duration-ms="4795" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="ShippingAccount()[pri:0, instance:pack.UPStest.UpsShipTest@2cae1042]" started-at="2020-04-30T11:34:25Z" name="ShippingAccount" finished-at="2020-04-30T11:34:32Z" duration-ms="7163" status="PASS">
+        <test-method signature="ShippingAccount()[pri:0, instance:pack.UPStest.UpsShipTest@2cae1042]" started-at="2020-04-30T12:23:13Z" name="ShippingAccount" finished-at="2020-04-30T12:23:19Z" duration-ms="6526" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ShippingAccount -->
